@@ -12,8 +12,9 @@ Nmap scan results for each machine reveal the below services and OS details:
 
 ```bash
 $ nmap -sV 192.168.1.110
+![nmap scan results target 1](https://user-images.githubusercontent.com/106977984/186041698-706a8093-cfa1-4f4f-aaae-7da7851a6a60.png)
 
-![wpscan commands](https://user-images.githubusercontent.com/106977984/186041540-e62ab37d-ab53-4043-ade9-e931000f5204.png)
+
 
 
 ```
